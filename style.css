@@ -1,0 +1,1760 @@
+.frame,
+.frame * {
+  box-sizing: border-box;
+}
+.frame {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #ced4da;
+  border-width: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.body {
+  background: rgba(0, 0, 0, 0);
+  flex-shrink: 0;
+  width: 1440px;
+  height: 2485px;
+  position: relative;
+}
+.div {
+  background: #ffffff;
+  width: 1440px;
+  height: 2485px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.section {
+  background: #eff6ff;
+  width: 1440px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div2 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 520px;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+}
+.div3 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 520px;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+}
+.div4 {
+  background: rgba(0, 0, 0, 0);
+  width: 624px;
+  height: 282px;
+  position: absolute;
+  left: 0px;
+  top: 119px;
+}
+.your-pet-s-paradise-awaits {
+  color: #111827;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 60px;
+  line-height: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  width: 563px;
+  height: 72px;
+}
+.discover-premium-pet-supplies-quality-cosmetics-and-adorable-companions-for-your-furry-friends {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 151px;
+  width: 542px;
+  height: 21px;
+}
+.div5 {
+  background: rgba(0, 0, 0, 0);
+  width: 592px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 232px;
+}
+.button {
+  background: #2563eb;
+  border-radius: 9999px;
+  width: 142.08px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.shop-now {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 15px;
+  width: 78px;
+  height: 20px;
+}
+.button2 {
+  background: rgba(0, 0, 0, 0);
+  border-radius: 9999px;
+  border-style: solid;
+  border-color: #2563eb;
+  border-width: 1px;
+  width: 136.06px;
+  height: 50px;
+  position: absolute;
+  left: 158.08px;
+  top: 0px;
+}
+.find-pets {
+  color: #2563eb;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 33px;
+  top: 15px;
+  width: 71px;
+  height: 20px;
+}
+.div6 {
+  background: rgba(0, 0, 0, 0);
+  width: 624px;
+  height: 500px;
+  position: absolute;
+  left: 624px;
+  top: 10px;
+}
+.img {
+  border-radius: 8px;
+  width: 624px;
+  height: 500px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.section2 {
+  background: rgba(0, 0, 0, 0);
+  width: 1440px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 600px;
+}
+.div7 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 192px;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+}
+.shop-by-category {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 508.72px;
+  top: 0px;
+  width: 263px;
+  height: 36px;
+}
+.div8 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 108px;
+  position: absolute;
+  left: 16px;
+  top: 84px;
+}
+.div9 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 108px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div10 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 288px;
+  height: 108px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.i {
+  background: rgba(0, 0, 0, 0);
+  width: 36px;
+  height: 44px;
+  position: absolute;
+  left: 126px;
+  top: 20.5px;
+}
+.svg {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 3.5px;
+}
+.frame2 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.h-3 {
+  background: rgba(0, 0, 0, 0);
+  width: 240px;
+  height: 24px;
+  position: absolute;
+  left: 24px;
+  top: 60px;
+}
+.pet-food {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 86.14px;
+  top: 2px;
+  width: 68px;
+  height: 20px;
+}
+.div11 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 108px;
+  position: absolute;
+  left: 320px;
+  top: 0px;
+}
+.frame3 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.cosmetics {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 78.92px;
+  top: 2px;
+  width: 83px;
+  height: 20px;
+}
+.div12 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 108px;
+  position: absolute;
+  left: 640px;
+  top: 0px;
+}
+.i2 {
+  background: rgba(0, 0, 0, 0);
+  width: 40.5px;
+  height: 44px;
+  position: absolute;
+  left: 123.75px;
+  top: 20.5px;
+}
+.svg2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 40.5px;
+  height: 36px;
+  position: absolute;
+  left: 0px;
+  top: 3.5px;
+}
+.frame4 {
+  flex-shrink: 0;
+  width: 40.5px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.dogs {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 99.95px;
+  top: 2px;
+  width: 41px;
+  height: 20px;
+}
+.div13 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 108px;
+  position: absolute;
+  left: 960px;
+  top: 0px;
+}
+.frame5 {
+  flex-shrink: 0;
+  width: 40.5px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.cats {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 102.34px;
+  top: 2px;
+  width: 36px;
+  height: 20px;
+}
+.section3 {
+  background: #f9fafb;
+  width: 1440px;
+  height: 532px;
+  position: absolute;
+  left: 0px;
+  top: 920px;
+}
+.div14 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 404px;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+}
+.featured-products {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 505.25px;
+  top: 0px;
+  width: 271px;
+  height: 36px;
+}
+.div15 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 320px;
+  position: absolute;
+  left: 16px;
+  top: 84px;
+}
+.div16 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 288px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.div17 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 192px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.img2 {
+  width: 288px;
+  height: 192px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.div18 {
+  background: rgba(0, 0, 0, 0);
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 240px;
+  top: 16px;
+}
+.button3 {
+  background: #ffffff;
+  border-radius: 9999px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.1),
+    0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+.i3 {
+  background: rgba(0, 0, 0, 0);
+  width: 16px;
+  height: 20px;
+  position: absolute;
+  left: 8px;
+  top: 6px;
+}
+.svg3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+}
+.frame6 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.div19 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 128px;
+  position: absolute;
+  left: 0px;
+  top: 192px;
+}
+.premium-dog-food {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 16px;
+  top: 18px;
+  width: 146px;
+  height: 20px;
+}
+.organic-ingredients {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 49px;
+  width: 130px;
+  height: 17px;
+}
+.div20 {
+  background: rgba(0, 0, 0, 0);
+  width: 256px;
+  height: 36px;
+  position: absolute;
+  left: 16px;
+  top: 76px;
+}
+._29-99 {
+  color: #2563eb;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 57px;
+  height: 20px;
+}
+.button4 {
+  background: #2563eb;
+  border-radius: 9999px;
+  width: 107.69px;
+  height: 36px;
+  position: absolute;
+  left: 148.31px;
+  top: 0px;
+}
+.add-to-cart {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 9px;
+  width: 77px;
+  height: 17px;
+}
+.div21 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 288px;
+  height: 320px;
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.frame7 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.luxury-pet-shampoo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 16px;
+  top: 18px;
+  width: 161px;
+  height: 20px;
+}
+.gentle-formula {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 49px;
+  width: 98px;
+  height: 17px;
+}
+._19-99 {
+  color: #2563eb;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 55px;
+  height: 20px;
+}
+.div22 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 288px;
+  height: 320px;
+  position: absolute;
+  left: 640px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.frame8 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.persian-kitten {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 16px;
+  top: 18px;
+  width: 109px;
+  height: 20px;
+}
+._3-months-old {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 49px;
+  width: 87px;
+  height: 17px;
+}
+._899-99 {
+  color: #2563eb;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 68px;
+  height: 20px;
+}
+.button5 {
+  background: #2563eb;
+  border-radius: 9999px;
+  width: 76.95px;
+  height: 36px;
+  position: absolute;
+  left: 179.05px;
+  top: 0px;
+}
+.details {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 9px;
+  width: 46px;
+  height: 17px;
+}
+.div23 {
+  background: #ffffff;
+  border-radius: 12px;
+  width: 288px;
+  height: 320px;
+  position: absolute;
+  left: 960px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.frame9 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.grooming-kit {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 16px;
+  top: 18px;
+  width: 102px;
+  height: 20px;
+}
+.professional-grade {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 49px;
+  width: 124px;
+  height: 17px;
+}
+._49-99 {
+  color: #2563eb;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  width: 58px;
+  height: 20px;
+}
+.section4 {
+  background: rgba(0, 0, 0, 0);
+  width: 1440px;
+  height: 356px;
+  position: absolute;
+  left: 0px;
+  top: 1452px;
+}
+.div24 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 228px;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+}
+.our-services {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 545.11px;
+  top: 0px;
+  width: 190px;
+  height: 36px;
+}
+.div25 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 144px;
+  position: absolute;
+  left: 16px;
+  top: 84px;
+}
+.div26 {
+  background: rgba(0, 0, 0, 0);
+  width: 394.66px;
+  height: 144px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame10 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 36px;
+  position: absolute;
+  left: 174.83px;
+  top: 24px;
+  overflow: hidden;
+}
+.frame11 {
+  flex-shrink: 0;
+  width: 45px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.free-delivery {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 133.59px;
+  top: 62px;
+  width: 128px;
+  height: 24px;
+}
+.free-shipping-on-orders-above-50 {
+  color: #4b5563;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 65.16px;
+  top: 98px;
+  width: 264px;
+  height: 20px;
+}
+.div27 {
+  background: rgba(0, 0, 0, 0);
+  width: 394.67px;
+  height: 144px;
+  position: absolute;
+  left: 426.66px;
+  top: 0px;
+}
+.frame12 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+  left: 179.33px;
+  top: 24px;
+  overflow: hidden;
+}
+.frame13 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+._24-7-support {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 133.64px;
+  top: 62px;
+  width: 129px;
+  height: 24px;
+}
+.get-help-anytime-you-need {
+  color: #4b5563;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 96.09px;
+  top: 98px;
+  width: 203px;
+  height: 20px;
+}
+.div28 {
+  background: rgba(0, 0, 0, 0);
+  width: 394.66px;
+  height: 144px;
+  position: absolute;
+  left: 853.33px;
+  top: 0px;
+}
+.frame14 {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  position: relative;
+  overflow: visible;
+}
+.easy-returns {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 133.98px;
+  top: 62px;
+  width: 127px;
+  height: 24px;
+}
+._30-day-return-policy {
+  color: #4b5563;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 120.16px;
+  top: 98px;
+  width: 155px;
+  height: 20px;
+}
+.section5 {
+  background: #2563eb;
+  width: 1440px;
+  height: 284px;
+  position: absolute;
+  left: 0px;
+  top: 1808px;
+}
+.div29 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 156px;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+}
+.div30 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 156px;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+}
+.join-our-newsletter {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 478.47px;
+  top: 0px;
+  width: 293px;
+  height: 36px;
+}
+.get-updates-about-new-products-and-special-offers {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 430.78px;
+  top: 54px;
+  width: 388px;
+  height: 20px;
+}
+.div31 {
+  background: rgba(0, 0, 0, 0);
+  width: 448px;
+  height: 48px;
+  position: absolute;
+  left: 400px;
+  top: 108px;
+}
+.input {
+  background: #ffffff;
+  border-radius: 9999px;
+  width: 291.7px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.enter-your-email {
+  color: #adaebc;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+  width: 123px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button6 {
+  background: #ffffff;
+  border-radius: 9999px;
+  width: 140.3px;
+  height: 48px;
+  position: absolute;
+  left: 307.7px;
+  top: 0px;
+}
+.subscribe {
+  color: #2563eb;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 14px;
+  width: 76px;
+  height: 20px;
+}
+.footer {
+  background: #111827;
+  width: 1440px;
+  height: 393px;
+  position: absolute;
+  left: 0px;
+  top: 2092px;
+}
+.div32 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 265px;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+}
+.div33 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 160px;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+}
+.div34 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 160px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.bark-bubble {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 118px;
+  height: 24px;
+}
+.your-one-stop-shop-for-all-pet-needs {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 276px;
+  height: 20px;
+}
+.div35 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 84px;
+}
+.div36 {
+  background: rgba(0, 0, 0, 0);
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame15 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame16 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.div37 {
+  background: rgba(0, 0, 0, 0);
+  width: 14px;
+  height: 16px;
+  position: absolute;
+  left: 32px;
+  top: 0px;
+}
+.frame17 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame18 {
+  flex-shrink: 0;
+  width: 14px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.div38 {
+  background: rgba(0, 0, 0, 0);
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 62px;
+  top: 0px;
+}
+.frame19 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.div39 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 160px;
+  position: absolute;
+  left: 320px;
+  top: 0px;
+}
+.quick-links {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 90px;
+  height: 20px;
+}
+.ul {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 120px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.li {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-us {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 71px;
+  height: 20px;
+}
+.li2 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+}
+.shop {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 39px;
+  height: 20px;
+}
+.li3 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 64px;
+}
+.contact {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 61px;
+  height: 20px;
+}
+.li4 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 96px;
+}
+.fa-qs {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 39px;
+  height: 20px;
+}
+.div40 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 160px;
+  position: absolute;
+  left: 640px;
+  top: 0px;
+}
+.categories {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 86px;
+  height: 20px;
+}
+.pet-food2 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 68px;
+  height: 20px;
+}
+.cosmetics2 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 80px;
+  height: 20px;
+}
+.dogs2 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 40px;
+  height: 20px;
+}
+.cats2 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 35px;
+  height: 20px;
+}
+.div41 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 160px;
+  position: absolute;
+  left: 960px;
+  top: 0px;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 62px;
+  height: 20px;
+}
+.ul2 {
+  background: rgba(0, 0, 0, 0);
+  width: 288px;
+  height: 88px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.frame20 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 12px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: hidden;
+}
+.frame21 {
+  flex-shrink: 0;
+  width: 12px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._123-pet-street-ny-10001 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 20px;
+  top: 2px;
+  width: 189px;
+  height: 20px;
+}
+.frame22 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: hidden;
+}
+.frame23 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._1-234-567-8900 {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 2px;
+  width: 131px;
+  height: 20px;
+}
+.frame24 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+.info-barkbubble-com {
+  color: #9ca3af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 2px;
+  width: 166px;
+  height: 20px;
+}
+.div42 {
+  background: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-color: #1f2937;
+  border-width: 1px 0px 0px 0px;
+  width: 1248px;
+  height: 57px;
+  position: absolute;
+  left: 16px;
+  top: 208px;
+}
+._2025-bark-bubble-all-rights-reserved {
+  color: #9ca3af;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 471.11px;
+  top: 35px;
+  width: 305px;
+  height: 20px;
+}
+.header {
+  background: #ffffff;
+  width: 1440px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.div43 {
+  background: rgba(0, 0, 0, 0);
+  width: 1280px;
+  height: 80px;
+  position: absolute;
+  left: 80px;
+  top: 0px;
+}
+.div44 {
+  background: rgba(0, 0, 0, 0);
+  width: 1248px;
+  height: 80px;
+  position: absolute;
+  left: 16px;
+  top: 0px;
+}
+.div45 {
+  background: rgba(0, 0, 0, 0);
+  width: 593.17px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 24px;
+}
+.div46 {
+  background: rgba(0, 0, 0, 0);
+  width: 173.45px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.bark-bubble2 {
+  color: #2563eb;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 32px;
+  top: 1px;
+  width: 142px;
+  height: 29px;
+}
+.frame25 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: hidden;
+}
+.frame26 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.nav {
+  background: rgba(0, 0, 0, 0);
+  width: 355.72px;
+  height: 24px;
+  position: absolute;
+  left: 237.45px;
+  top: 4px;
+}
+.home {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 45px;
+  height: 20px;
+}
+.shop2 {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 76.83px;
+  top: 2px;
+  width: 39px;
+  height: 20px;
+}
+.pets {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 147.95px;
+  top: 2px;
+  width: 34px;
+  height: 20px;
+}
+.services {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 212.94px;
+  top: 2px;
+  width: 66px;
+  height: 20px;
+}
+.about {
+  color: #4b5563;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 310.59px;
+  top: 2px;
+  width: 46px;
+  height: 20px;
+}
+.div47 {
+  background: rgba(0, 0, 0, 0);
+  width: 92px;
+  height: 20px;
+  position: absolute;
+  left: 1156px;
+  top: 30px;
+}
+.div48 {
+  background: rgba(0, 0, 0, 0);
+  width: 92px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.button7 {
+  background: rgba(0, 0, 0, 0);
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame27 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame28 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.button8 {
+  background: rgba(0, 0, 0, 0);
+  width: 17.5px;
+  height: 20px;
+  position: absolute;
+  left: 36px;
+  top: 0px;
+}
+.frame29 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 17.5px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame30 {
+  flex-shrink: 0;
+  width: 17.5px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.button9 {
+  background: rgba(0, 0, 0, 0);
+  width: 22.5px;
+  height: 20px;
+  position: absolute;
+  left: 69.5px;
+  top: 0px;
+}
+.frame31 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 22.5px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame32 {
+  flex-shrink: 0;
+  width: 22.5px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.span {
+  background: #ef4444;
+  border-radius: 9999px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 10.5px;
+  top: -8px;
+}
+._3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 6.28px;
+  top: 2px;
+}
